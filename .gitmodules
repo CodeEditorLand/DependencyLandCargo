@@ -4,8 +4,8 @@ url = ssh://git@github.com/CodeEditorLand/CargoDocument.git
 
 [submodule "Maintain"]
 path = Maintain
-url = ssh://git@github.com/CodeEditorLand/CargoMaintain.git
+url = ssh://git@github.com/CodeEditorLand/DependencyLandMaintain.git
 
 [submodule "Runtime"]
 path = Runtime
-url = ssh://git@github.com/CodeEditorLand/CargoRuntime.git
+url = ssh://git@github.com/CodeEditorLand/DependencyLandRuntime.git
