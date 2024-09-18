@@ -1,6 +1,6 @@
 [submodule "Document"]
 path = Document
-url = ssh://git@github.com/CodeEditorLand/CargoDocument.git
+url = ssh://git@github.com/CodeEditorLand/DependencyLandMaintain.git
 
 [submodule "Maintain"]
 path = Maintain
